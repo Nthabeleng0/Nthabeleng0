@@ -51,7 +51,7 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 
 ### Evidence  
 [View CV – Page 1](./artefacts/cv.png)  
-[View CV – Page 2](./artefacts/cv-1.png)
+[View CV – Page 2](./artefacts/cv1.png)
 
 ### STAR Reflection  
 **S**ituation: I had an outdated CV that lacked structure and direction.  
