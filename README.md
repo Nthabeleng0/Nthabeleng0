@@ -19,9 +19,9 @@ This digital portfolio documents my journey and learnings from the Work Readines
 
 
 ### STAR Reflection  
-**S**ituation:At the start of the Business Communication module, I realized that while I could write emails easily, they often came across as too casual. My messages sometimes lacked structure and professionalism not the best impression when contacting potential employers.
+**S**ituation: At the start of the Business Communication module, I realized that while I could write emails easily, they often came across as too casual. My messages sometimes lacked structure and professionalism not the best impression when contacting potential employers.
 
-**T**ask:I wanted to learn how to write formal emails that were polite, clear, and professional something that would reflect the image of a serious and capable candidate.
+**T**ask: I wanted to learn how to write formal emails that were polite, clear, and professional something that would reflect the image of a serious and capable candidate.
 
 **A**ction: I studied the lessons on tone, structure, and professionalism and then completed the Business Communication quiz to test my understanding. Afterward, I practiced by drafting a real internship application email. I made sure it had a proper subject line, professional greeting, concise body paragraphs, and a respectful closing. I even asked a friend to review it to make sure it sounded polished.
 
@@ -41,7 +41,7 @@ This digital portfolio documents my journey and learnings from the Work Readines
 
 **A**ction: The Interview Skills module was a game changer. I learned about the STAR and CAR methods, practiced mock questions, and watched interview videos to pick up on tone and body language. I even recorded myself answering questions like “Tell me about yourself” to analyze how I came across. After a few tries, I noticed my posture, eye contact, and confidence improving.
 
-**R**esult:Achieving a score of 100% on the quiz gave me confidence in the theory. Preparing my personalized STAR responses equipped me with ready-to-use examples, making me feel significantly more prepared and less anxious about upcoming interviews.
+**R**esult: Achieving a score of 100% on the quiz gave me confidence in the theory. Preparing my personalized STAR responses equipped me with ready-to-use examples, making me feel significantly more prepared and less anxious about upcoming interviews.
 
 ---
 
@@ -52,7 +52,7 @@ This digital portfolio documents my journey and learnings from the Work Readines
 
 
 ### STAR Reflection  
-**S**ituation:Recording my mock interview was both exciting and terrifying. Speaking to a camera felt strange, and I was worried about how I’d come across on video.
+**S**ituation: Recording my mock interview was both exciting and terrifying. Speaking to a camera felt strange, and I was worried about how I’d come across on video.
 
 **T**ask: I wanted to apply everything I had learned from tone and posture to clear, structured answers and present myself as confidently as possible.
 
@@ -97,7 +97,7 @@ This digital portfolio documents my journey and learnings from the Work Readines
 ### STAR Reflection  
 **S**ituation: In one of my group projects, our team struggled with communication people missed meetings, tasks got delayed, and frustration built up. It made me realize that professionalism and etiquette aren’t just for offices; they matter in every team setting.
 
-**T**ask:I wanted to put what I learned from the Workplace Etiquette module into practice and help our group work together more respectfully and efficiently.
+**T**ask: I wanted to put what I learned from the Workplace Etiquette module into practice and help our group work together more respectfully and efficiently.
 
 **A**ction: I suggested that we schedule regular online check-ins, create a shared task list, and set clear expectations about communication. I made an effort to always respond promptly, show up prepared, and communicate politely even when tensions were high. I also created a short personal Work Code of Conduct to guide my own behavior.
 
