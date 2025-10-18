@@ -9,7 +9,10 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 ## BUSINESS COMMUNICATION
 
 ### Evidence  
-[View Career Development Plan](./artefacts/career-development-plan.png)
+[View Career Development Plan](./artefacts/business.png)
+[View Career Development Plan](./artefacts/business2.png)
+[View Career Development Plan](./artefacts/email.png)
+[View Career Development Plan](./artefacts/email2.png)
 
 ### STAR Reflection  
 **S**ituation:At the start of the Business Communication module, I realized that while I could write emails easily, they often came across as too casual. My messages sometimes lacked structure and professionalism — not the best impression when contacting potential employers.
