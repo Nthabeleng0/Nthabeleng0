@@ -87,7 +87,9 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 ## WORKPLACE ETIQUETTE
 
 ### Evidence  
-[View CV Submission Screenshot](./artefacts/cv-submission.png)
+[View Workplace Etiquette Quiz](./artefacts/workplace.png)
+[View Workplace Etiquette Quiz Page-2](./artefacts/workplace2.png)
+ 
 
 ### STAR Reflection  
 **S**ituation: In one of my group projects, our team struggled with communication — people missed meetings, tasks got delayed, and frustration built up. It made me realize that professionalism and etiquette aren’t just for offices; they matter in every team setting.
