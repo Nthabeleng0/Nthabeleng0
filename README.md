@@ -49,7 +49,8 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 ## MOCK INTERVIEW
 
 ### Evidence  
-[View Mock Interview Video](./artefacts/personality-mock-video.mp4)  
+[View Mock Interview Video](./artefacts/mock-video.mp4) 
+https://github.com/Nthabeleng0/Nthabeleng0/blob/main/artefacts/mock-video.mp4
 
 ### STAR Reflection  
 **S**ituation:Recording my mock interview was both exciting and terrifying. Speaking to a camera felt strange, and I was worried about how I’d come across on video.
