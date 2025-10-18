@@ -11,11 +11,11 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 ### Evidence  
 [View Business Communication Quiz](./artefacts/business.png)
 
-[View Business Communication Quiz](./artefacts/business2.png)
+[View Business Communication Quiz page-2](./artefacts/business2.png)
 
 [View Emails](./artefacts/email.png)
 
-[View Emails](./artefacts/email2.png)
+[View Emails page-2](./artefacts/email2.png)
 
 
 ### STAR Reflection  
@@ -31,8 +31,8 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 ## INTERVIEW SKILLS
 
 ### Evidence  
-[View Skills & Interests – Page 1](./artefacts/skills-interests.png)  
-[View Skills & Interests – Page 2](./artefacts/skills-interests1.png)
+[Interview Quiz](./artefacts/interview.png)  
+[Interview Questions Practise](./artefacts/interview-questions.png)
 
 ### STAR Reflection 
 **S**ituation: When I first thought about interviews, I used to feel nervous and unsure of what to say. I knew I had the technical skills, but explaining them under pressure was another story.
