@@ -2,7 +2,7 @@
 
 # GitHub Portfolio – Work Readiness Training
 
-Welcome to my digital portfolio, where I share evidence and STAR reflections from my journey through the **Work Readiness Training Programme**.
+This digital portfolio documents my journey and learnings from the Work Readiness Training. It serves as evidence of my development in key professional competencies. Each section includes artefacts from the module quizzes and a structured reflection using the STAR technique to demonstrate my learning and application.
 
 ---
 
@@ -33,7 +33,6 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 ### Evidence  
 [View Interview Quiz](./artefacts/interview.png)  
 
-[View Interview Questions Practise](./artefacts/interview-questions.png)
 
 ### STAR Reflection 
 **S**ituation: When I first thought about interviews, I used to feel nervous and unsure of what to say. I knew I had the technical skills, but explaining them under pressure was another story.
@@ -81,7 +80,7 @@ https://github.com/Nthabeleng0/Nthabeleng0/blob/main/artefacts/mock-video.mp4
 
 **A**ction: After completing the Professional Networking lessons and quiz, I created my LinkedIn profile from scratch. I uploaded a professional photo, wrote an “About Me” section that highlighted my passion for technology, and listed my skills and projects. I began connecting with classmates, lecturers, and a few industry professionals. I also joined tech-related groups and started commenting thoughtfully on posts to build visibility.
 
-**R**esult: Within a few weeks, I gained over 60 connections and even received advice from a software developer about career growth in IT. I realized networking isn’t just about finding jobs — it’s about learning, sharing, and being part of a professional community. It was empowering to see how one online profile could open so many doors.
+**R**esult: Within a few weeks, I gained 36 post impressions and even received invites to online workshops about career growth in IT. I realized networking isn’t just about finding jobs — it’s about learning, sharing, and being part of a professional community. It was empowering to see how one online profile could open so many doors.
 
 ---
 
