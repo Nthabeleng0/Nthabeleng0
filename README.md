@@ -6,71 +6,85 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 
 ---
 
-## Career Counseling
+## BUSINESS COMMUNICATION
 
 ### Evidence  
 [View Career Development Plan](./artefacts/career-development-plan.png)
 
 ### STAR Reflection  
-**S**ituation: At the start of the Work Readiness Programme, I was introduced to the concept of career counselling, which emphasized the importance of creating a structured career development plan.  
-**T**ask: My goal was to reflect on my values, strengths, and long-term aspirations in order to create a SMART-based career plan that would guide me through the next few years of my professional life.  
-**A**ction: I completed various self-assessment activities, including quizzes and journaling prompts, that helped me identify my core motivations—like a desire for meaningful work, stability, and personal growth.  
-**R**esult: I now have a career development plan that is realistic, actionable, and aligned with my values.
+**S**ituation:At the start of the Business Communication module, I realized that while I could write emails easily, they often came across as too casual. My messages sometimes lacked structure and professionalism — not the best impression when contacting potential employers.
 
----
+**T**ask:I wanted to learn how to write formal emails that were polite, clear, and professional — something that would reflect the image of a serious and capable candidate.
 
-## Skills and Interests
+**A**ction: I studied the lessons on tone, structure, and professionalism and then completed the Business Communication quiz to test my understanding. Afterward, I practiced by drafting a real internship application email. I made sure it had a proper subject line, professional greeting, concise body paragraphs, and a respectful closing. I even asked a friend to review it to make sure it sounded polished.
+
+**R**esult: The effort paid off — I scored high on the quiz and, even better, received a positive response from the company I emailed. The recruiter mentioned my email was “clear and professional,” which made me proud. I now write every professional message with confidence, knowing that good communication can open real doors.
+
+
+## INTERVIEW SKILLS
 
 ### Evidence  
 [View Skills & Interests – Page 1](./artefacts/skills-interests.png)  
 [View Skills & Interests – Page 2](./artefacts/skills-interests1.png)
 
-### STAR Reflection  
-**S**ituation: I was often unsure why certain roles appealed to me more than others.  
-**T**ask: I had to identify my values, skills, and interests using tools like quizzes and reflection worksheets.  
-**A**ction: I used value-mapping and vocational profiles to understand my motivations and strengths.  
-**R**esult: I discovered key traits that guide me toward careers in creative, people-centered roles.
+### STAR Reflection 
+**S**ituation: When I first thought about interviews, I used to feel nervous and unsure of what to say. I knew I had the technical skills, but explaining them under pressure was another story.
+
+**T**ask: My goal was to learn how to structure my answers properly and build the confidence to speak clearly about my experiences and strengths.
+
+**A**ction: The Interview Skills module was a game-changer. I learned about the STAR and CAR methods, practiced mock questions, and watched interview videos to pick up on tone and body language. I even recorded myself answering questions like “Tell me about yourself” to analyze how I came across. After a few tries, I noticed my posture, eye contact, and confidence improving.
+
+**R**esult: During an actual interview for an IT internship, I applied the STAR technique and felt completely in control. My answers were organized, and the interviewer even said, “You explain yourself very well.” That moment showed me how preparation transforms nerves into confidence.
 
 ---
 
-## Personality Assessment
+## MOCK INTERVIEW
 
 ### Evidence  
 [View Personality Assessment – Page 1](./artefacts/personality-assessment.png)  
 [View Personality Assessment – Page 2](./artefacts/personality-assessment1.png)
 
 ### STAR Reflection  
-**S**ituation: I completed a personality test as part of the training.  
-**T**ask: The goal was to understand how my personality aligns with different work environments.  
-**A**ction: I completed the quiz and reflected on how my personality shows up in teamwork and leadership.  
-**R**esult: This has helped me choose work environments where I can thrive and be authentic.
+**S**ituation:Recording my mock interview was both exciting and terrifying. Speaking to a camera felt strange, and I was worried about how I’d come across on video.
+
+**T**ask: I wanted to apply everything I had learned — from tone and posture to clear, structured answers — and present myself as confidently as possible.
+
+**A**ction: I treated the mock interview like the real deal. I dressed professionally, set up a quiet and well-lit space, and practiced breathing exercises to calm my nerves. During the recording, I focused on maintaining eye contact with the camera, smiling, and using the STAR method to organize my responses. Afterward, I watched the video, took notes on my delivery, and wrote a short self-assessment.
+
+**R**esult: The mock interview became one of my proudest moments in the module. I came across confident and professional — something I didn’t think I could achieve at first. The feedback I received praised my communication style but also encouraged me to make my answers a bit shorter. That reflection helped me see that growth is about progress, not perfection.
 
 ---
 
-## Create a CV
+## PROFESSIONAL NETWORKING
 
 ### Evidence  
 [View CV – Page 1](./artefacts/cv.png)  
 [View CV – Page 2](./artefacts/cv1.png)
 
 ### STAR Reflection  
-**S**ituation: I had an outdated CV that lacked structure and direction.  
-**T**ask: I was required to develop a modern, professional CV aligned with my target career path.  
-**A**ction: I followed a clear format, used action words, and tailored content to reflect my strengths.  
-**R**esult: I now have a clean, professional CV that’s ready for job applications.
+**S**ituation: Before this module, I had heard of LinkedIn but never used it seriously. I didn’t have a professional profile or any idea how to start connecting with people in the IT industry.
+
+**T**ask: I wanted to build an online presence and start forming real professional connections that could help me learn, grow, and eventually find opportunities in my field.
+
+**A**ction: After completing the Professional Networking lessons and quiz, I created my LinkedIn profile from scratch. I uploaded a professional photo, wrote an “About Me” section that highlighted my passion for technology, and listed my skills and projects. I began connecting with classmates, lecturers, and a few industry professionals. I also joined tech-related groups and started commenting thoughtfully on posts to build visibility.
+
+**R**esult: Within a few weeks, I gained over 60 connections and even received advice from a software developer about career growth in IT. I realized networking isn’t just about finding jobs — it’s about learning, sharing, and being part of a professional community. It was empowering to see how one online profile could open so many doors.
 
 ---
 
-## CV Submission
+## WORKPLACE ETIQUETTE
 
 ### Evidence  
 [View CV Submission Screenshot](./artefacts/cv-submission.png)
 
 ### STAR Reflection  
-**S**ituation: After completing my CV, I was asked to submit it professionally.  
-**T**ask: Ensure the document met formal standards and submit it on time.  
-**A**ction: I reviewed the CV carefully and submitted it via the platform.  
-**R**esult: This process gave me confidence in submitting real-world applications in the future.
+**S**ituation: In one of my group projects, our team struggled with communication — people missed meetings, tasks got delayed, and frustration built up. It made me realize that professionalism and etiquette aren’t just for offices; they matter in every team setting.
+
+**T**ask:I wanted to put what I learned from the Workplace Etiquette module into practice and help our group work together more respectfully and efficiently.
+
+**A**ction: I suggested that we schedule regular online check-ins, create a shared task list, and set clear expectations about communication. I made an effort to always respond promptly, show up prepared, and communicate politely — even when tensions were high. I also created a short personal “Remote Work Code of Conduct” to guide my own behavior.
+
+**R**esult: The difference was incredible. Our teamwork improved, deadlines were met, and everyone started taking accountability. At the end of the project, our lecturer complimented our group on professionalism. That experience taught me that good etiquette isn’t just about following rules — it’s about respect, reliability, and making collaboration smoother for everyone.
 
 ---
 
