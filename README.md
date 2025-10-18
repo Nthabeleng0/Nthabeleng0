@@ -31,8 +31,9 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 ## INTERVIEW SKILLS
 
 ### Evidence  
-[Interview Quiz](./artefacts/interview.png)  
-[Interview Questions Practise](./artefacts/interview-questions.png)
+[View Interview Quiz](./artefacts/interview.png)  
+
+[View Interview Questions Practise](./artefacts/interview-questions.png)
 
 ### STAR Reflection 
 **S**ituation: When I first thought about interviews, I used to feel nervous and unsure of what to say. I knew I had the technical skills, but explaining them under pressure was another story.
@@ -49,7 +50,6 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 
 ### Evidence  
 [View Personality Assessment – Page 1](./artefacts/personality-assessment.png)  
-[View Personality Assessment – Page 2](./artefacts/personality-assessment1.png)
 
 ### STAR Reflection  
 **S**ituation:Recording my mock interview was both exciting and terrifying. Speaking to a camera felt strange, and I was worried about how I’d come across on video.
@@ -65,8 +65,13 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 ## PROFESSIONAL NETWORKING
 
 ### Evidence  
-[View CV – Page 1](./artefacts/cv.png)  
-[View CV – Page 2](./artefacts/cv1.png)
+[View Professional Networking Quiz](./artefacts/prof.png)  
+
+[View LinkedIn Profile – Page 1](./artefacts/link.png)
+
+[View  LinkedIn Profile – Page 2](./artefacts/link2.png)
+
+[View  LinkedIn Profile – Page 3](./artefacts/link3.png)
 
 ### STAR Reflection  
 **S**ituation: Before this module, I had heard of LinkedIn but never used it seriously. I didn’t have a professional profile or any idea how to start connecting with people in the IT industry.
