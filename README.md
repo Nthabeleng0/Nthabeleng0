@@ -49,7 +49,7 @@ This digital portfolio documents my journey and learnings from the Work Readines
 
 ### Evidence  
 [View Mock Interview Video](./artefacts/mock-video.mp4) 
-https://github.com/Nthabeleng0/Nthabeleng0/blob/main/artefacts/mock-video.mp4
+
 
 ### STAR Reflection  
 **S**ituation:Recording my mock interview was both exciting and terrifying. Speaking to a camera felt strange, and I was worried about how I’d come across on video.
